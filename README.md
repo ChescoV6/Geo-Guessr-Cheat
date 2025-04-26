@@ -1,0 +1,1 @@
+***You need to add Tampermonkey extension, recommended to do on GOOGLE CHROME, and turn on extension developer mode also in manage extensions top right. There u go just create new script and paste Main.js and save it. Then load into a game and you're welcome.***
